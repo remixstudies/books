@@ -498,7 +498,7 @@
       .abstract-card:hover {
         background: var(--bg-card-hover);
       }
-      .abstract-card h4 {
+      .abstract-card h3 {
         font-size: 14px;
         font-weight: 600;
         color: var(--accent-light);
